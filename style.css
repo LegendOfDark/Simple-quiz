@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-family: sans-serif;
+    background-color: lightblue;
+}
+
+#questions{
+    margin-bottom: 0;
+}
+
+button{
+    font-size: 18px;
+    padding: 1em 1em;
+    margin: 1em;
+}
+
+#score_div{
+    margin-top: 1em;
+}
